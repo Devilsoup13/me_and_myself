@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mywebsite.com"
+<script type="text/javascript" src="bootstrap.js"></script>
+<title>This is me</title>
+<header> <div style="float;left;">
+<img src="https://tse4.mm.bing.net/th?id=OIP.cOyUd4I1Ue_UUfHGWllDfAHaEK&pid=Api&P=0&h=220"class="img-fluid alt="horror" height="100px" > 
+<div></header>
+<meta name="" content="">
+</head>
+<body background="https://wallpapers.com/images/high/the-backrooms-5k3i05fcmwui3bmo.webp">
+<div class="nav-menu">
+<a class="active" href="index.html">home</a>
+<a href="about.html">About Us</a>
+<a href=contact-us.html">Contact Us</a>
+<a href="products.html">Products</a>
+</div>
+<img src="https://tse2.mm.bing.net/th?id=OIP.W2fD61ac3Y0y2FtXO4Y7ygHaFP&pid=Api&P=0&h=220"class="img-fluid alt="about me">
+<h1>Horror Craft</h1>
+<p><strong>Intro</strong> <strong>Hello all this is William i go by "B" welcome to my page I play horror games and craft.</strong> tag it's contents.</p>
+<h2>Game streams</h2>
+<p> I'm a video game streamer on twitch and horror games like the image below are a keen favorite of mine.
+<img src="https://tse1.mm.bing.net/th?id=OIP.ZCRX5Fit-3ttp1enPSI50AHaEK&pid=Api&P=0&h=220"class="img-fluid alt="horror"></p>
+<h2>Craft</h2>
+<p>Crafting is something i greatly enjoy the satisfaction of creating sometimes from nothing is an incredible feeling, I'm currently focused on <a href="https://en.wikipedia.org/wiki/Sublimation_(phase_transition)">sublimation</a></p>
+<h3>Web development</h3>
+<p>I'm a strange creature that has many goals dreams aspirations and they grown into hobbies proffesions and dreams.Each of these have steps and the step im on is the one called web development and on this stair case i have climbed many steps starting with my dreams to make video games i sought out ways to enter the industry and from there i learned of coding and 3d modeling the coding is the current focus it led me to <a href="https://www.freecodecamp.org/">free code bandcamp</a> where i aquired an understanding of html, as well as an interest in coding as a whole. so when i found out that working at amazon i was able to learn more about it as well as start a career with classes and the such i jumped on the oppurtunity.</p>
+<h4>Experiences</h4>
+<ol>
+<li>I once played a professional chess player, he had played 12 players at once that day.ive lived in at least three different states,mostly due to my parents occupations.ive never been on an airplane,either never needed to or never had the chance.</li>
+<li>>I once owned an original 1964 mustang.My Papa bought it off the show room floor brand new and it was the most notably hideous color, sunshine yellow, beautiful car but terrible color.</li>
+</ol>
+<h5>  <img src="https://tse3.mm.bing.net/th?id=OIP.G0zqvt4ORzkfiFb67fFtFAHaE3&pid=Api&P=0&h=220"class="img-fluid alt="goals">
+Goals</h5>
+<ol>Goals are important to have and my goals are many such as:</ol>
+ <il>Starting a clothing business using my skills at <a href="https://en.wikipedia.org/wiki/Sublimation_(phase_transition)">sublimation</a></il> 
+<il>Make my stream famous ,<a href="https://www.twitch.tv/ariasis13"><button class=button>check out my page</button></a>,</il>
+<il>To be a graphic designer, gain clientelle and produce my own content for my clohing line.</il>
+<li>Learn the art of computer engineering in order to be able to produce any physical object i can imagine.</li>
+ariasisrevol@gmail.com
+ <button class="button">Contact</button>
+  <div class="grid-container">
+  <div class="grid-item"><img src="https://pngimg.com/uploads/skull/skull_PNG37.png" alt="skull" width=50px></div>
+  <div class="grid-item">
+    <img src="https://pngimg.com/uploads/skull/skull_PNG37.png" alt="skull" width=50px</div>
+    <div class="grid-item">
+    <img src="https://pngimg.com/uploads/skull/skull_PNG37.png" alt="skull" width=50px</div>
+            </div>
+</body>
+</html>

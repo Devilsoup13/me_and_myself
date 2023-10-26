@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mywebsite.com"
+<script type="text/javascript" src="bootstrap.js"></script>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>stream games steps</title>
+  <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+  
+  <div class="container">
+    <section class="item">
+      <h2 class="heading">so you want to be a streamer?</h2>
+      <p class="subheading">Scroll down to learn how.</p>
+    </section>
+    <section class="item left">
+      <div class="item__content">
+        <h2>choose a game</h2>
+        <p>Any game most streaming sites host a large variety of games</p>
+      </div>
+    </section>
+    <section class="item right">
+      <div class="item__content">
+        <h2>setup an "office"</h2>
+        <p>An office is any place that you setup for streams it should be neat and professional while demonstrating a theme similar to your persona</p>
+      </div>
+    </section>
+    <section class="item left">
+      <div class="item__content">
+        <h2>get OBS</h2>
+        <p>Obs is the easiest to use in my opion for organizing and recording streams even has a link for twitch operation.</p>
+      </div>
+    </section>
+    <section class="item right">
+      <div class="item__content">
+        <h2>start recording streams</h2>
+        <p>upload on youtube till you can upload on twitch while live streaming as you gain followers.</p>
+      </div>
+    </section>
+  </div>
+  <script src="script.js"></script>
+  </body>
+</html>
+
+
